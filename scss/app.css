@@ -1,0 +1,19 @@
+section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 15px;
+  height: 400px;
+  background-color: rgb(147, 0, 0);
+}
+
+section .container {
+  text-align: center;
+  color: white;
+}
+section .container .row {
+  display: flex;
+}
+section .container .row:hover {
+  background-color: aqua;
+}/*# sourceMappingURL=app.css.map */
